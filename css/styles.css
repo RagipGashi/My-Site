@@ -23,3 +23,8 @@ h1 {
     height: 200px;
 }
 
+.pro {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
