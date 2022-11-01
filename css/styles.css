@@ -6,17 +6,25 @@ body {
 
 h1 {
   font-size: 5.625rem; /*100% = 16px = 1em (rem = root em)*/
+  color: #66bfbf;
   margin-top: 50px;
   font-family: "Sacramento", cursive;
 }
 
 h2 {
+  color: #66bfbf;
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
+  font-weight: normal;
 }
 
 h3 {
+  color: #11999e;
   font-family: "Montserrat", sans-serif;
+}
+
+a {
+  color: #11999e;
 }
 
 .top-container {
