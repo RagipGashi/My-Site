@@ -148,3 +148,30 @@ hr {
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+
+@media (max-width: 680px) {
+  .top-container {
+    width: 100%;
+    margin: 0;
+    position: relative;
+  }
+
+  .top-cloud {
+    position: absolute;
+    left: 0;
+  }
+
+  .bottom-cloud {
+    position: static;
+  }
+
+  .mountain-img {
+    width: 360px;
+    position: relative;
+  }
+
+  .bottom-container {
+    width: 100%;
+  }
+
+}
